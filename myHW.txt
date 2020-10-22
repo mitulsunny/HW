@@ -1,0 +1,20 @@
+git status --> answer: 
+git add --a  --> Answer: 
+git commit -m "Short message"
+git pull origin master
+git push origin master
+
+git clone url
+git init 
+git remote -v
+git branch 
+git checkout branchName
+git merge branch
+
+
+Hungry for More
+ git log
+ git revert
+ git reset
+
+
